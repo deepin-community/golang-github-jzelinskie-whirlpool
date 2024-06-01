@@ -1,5 +1,27 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-jzelinskie-whirlpool (0.0~git20201016.0675e54-1) unstable; urgency=low
 
-  * Initial release
+  * Team upload.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit.
+  * Apply multi-arch hints.
+    + golang-github-jzelinskie-whirlpool-dev: Add Multi-Arch: foreign.
+
+  [ Drew Parsons ]
+  * New upstream snapshot.
+  * Standards-Version: 4.6.1
+  * debhelper compatibility level 13
+
+ -- Drew Parsons <dparsons@debian.org>  Wed, 09 Nov 2022 16:37:19 +0100
+
+golang-github-jzelinskie-whirlpool (0.0~git20170603.c19460b-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Thu, 17 Oct 2019 21:53:42 +0200
+
+golang-github-jzelinskie-whirlpool (0.0~git20170603.c19460b-1) unstable; urgency=medium
+
+  * Initial release (Closes: #941732)
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Fri, 04 Oct 2019 13:57:55 +0200
